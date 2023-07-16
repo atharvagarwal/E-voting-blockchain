@@ -22,6 +22,8 @@ Screenshots
 
 
 3.Vote Casted
+
+
 ![image](https://github.com/atharvagarwal/E-voting-blockchain/assets/89630019/acc7ef33-ef01-4a88-a7ee-691b3bbc1e5c)
 
 
