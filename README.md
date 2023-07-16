@@ -7,5 +7,5 @@ to deploy and run the smart contract type this in the terminal
 3. npx hardhat run scripts/deploy.js --network localhost
 
 Frontend-(React using Vite) , to run type the following commands in the terminal
-cd Frontend
-npm install
+1. cd Frontend
+2. npm install
